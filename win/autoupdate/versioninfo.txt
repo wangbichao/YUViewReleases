@@ -1,6 +1,6 @@
-Last Commit: 2.0-362-g25a8df3
-Last Commit Hash: 25a8df3cf6af6d5a25321547d41aa793e8db7fc5
-Last Commit Hash Short: 25a8df3
+Last Commit: 2.0-363-gf9c5e1f
+Last Commit Hash: f9c5e1f95c51510c441a22dd09348a2e5631449c
+Last Commit Hash Short: f9c5e1f
 translations\qt_pl.qm, 5.11, 55a6bb647e176cd4ceb5096c76b87abf, 162972
 translations\qt_hu.qm, 5.11, fd8d6145ca463351f31d6550bcbd9263, 160484
 translations\qt_ru.qm, 5.11, 862864842eb65c4f3f47252f7c9eaef8, 177105
@@ -19,7 +19,7 @@ translations\qt_bg.qm, 5.11, 6bcb7bf161bbe019cfaeee7d331e3e79, 165327
 translations\qt_cs.qm, 5.11, 987e045e06aeba29a8e05a074e6bdb91, 174691
 styles\qwindowsvistastyle.dll, 5.11, d31fd93b82dc409b1669c17de1ecb36d, 135168
 translations\qt_ar.qm, 5.11, e7ec8b6e07d62634777dbcb47bd611d3, 160010
-YUView.exe, 25a8df3cf6af6d5a25321547d41aa793e8db7fc5, 4816a28f513ffd431fa4abed486b8acf, 2757120
+YUView.exe, f9c5e1f95c51510c441a22dd09348a2e5631449c, dfa0bc929b366e1de228b7e3dd91b692, 2757120
 translations\qt_fr.qm, 5.11, 37f2ac5cf8ea04844351ae0bcf8420fb, 166157
 imageformats\qicns.dll, 5.11, 4facdedfb04fd0d62645ed34c64e3c53, 39936
 translations\qt_ca.qm, 5.11, 21fb29e06a28ce53710b30ddd5a613ea, 179797
